@@ -1,0 +1,17 @@
+{
+  "source": "btg.tokenview.io (client-rendered page fetch)",
+  "observed": "2026-09-28",
+  "note": "Values transcribed from the rendered explorer page. This explorer is a JS SPA whose JSON API requires a key, so it cannot be scraped from a plain HTTP GET; the tool ingests these figures as supplied data.",
+  "results": {
+    "GTK67VQsQCtueFu6Zo54KfWPPdChxBjmcD": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GTjomh2farmDNBJxqPJ7vBB4cBJSj18zaL": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GShFHMNkzVsKhNNc5SVwSczAQTQroLXrYC": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GKhjHV9PuyP1Py4mmz7tYpC6Q9CMWfZN6k": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GfgYHpazi325rvccugYcMpDQi8niXRrVca": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GNTyij1FoLr3E43aenRQrFVGmsZKN8D31t": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GZ3d6BADNPagYzyG61o5EPeT9Tvmhjmi5k": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GQZUnn8BM7NoJYS8PzKU7uLup2QyhYWqDd": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GJSQC98gQUNJeAAdvGLQTHPbKnGqHqoERn": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"},
+    "GKv1tt6BqdQj6445rpBmwbJ9Kdzz75NTfU": {"balance": "0", "received": "0", "sent": "0", "tx_count": "0"}
+  }
+}
